@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of forumtaro/theme.** Not for installation: use [Packagist](https://packagist.org/packages/forumtaro/theme) or the [upstream repository](https://github.com/forumtaro/test-style).
 
-**0** versions archived · Latest: [`0.0.6`](https://github.com/flarchive/forumtaro-theme/tree/archive/v0.0.6) · License: `MIT` · Flarum: `^1.0 || ^2.0`
+**6** versions archived · Latest: [`0.0.6`](https://github.com/flarchive/forumtaro-theme/tree/archive/v0.0.6) · License: `MIT` · Flarum: `^1.0 || ^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2026-05-04 | `^1.8.0` | [Browse](https://github.com/flarchive/forumtaro-theme/tree/archive/v0.0.1) |
+| `0.0.2` | 2026-05-06 | `^1.8.0` | [Browse](https://github.com/flarchive/forumtaro-theme/tree/archive/v0.0.2) |
+| `0.0.3` | 2026-05-10 | `^1.8.0` | [Browse](https://github.com/flarchive/forumtaro-theme/tree/archive/v0.0.3) |
+| `0.0.4` | 2026-05-10 | `^1.8.0` | [Browse](https://github.com/flarchive/forumtaro-theme/tree/archive/v0.0.4) |
+| `0.0.5` | 2026-05-11 | `^1.0 || ^2.0` | [Browse](https://github.com/flarchive/forumtaro-theme/tree/archive/v0.0.5) |
+| `0.0.6` | 2026-05-17 | `^1.0 || ^2.0` | [Browse](https://github.com/flarchive/forumtaro-theme/tree/archive/v0.0.6) |
 
 Catalog entry: [packages/forumtaro-theme.json](https://github.com/flarchive/archive-index/blob/main/packages/forumtaro-theme.json)
 
